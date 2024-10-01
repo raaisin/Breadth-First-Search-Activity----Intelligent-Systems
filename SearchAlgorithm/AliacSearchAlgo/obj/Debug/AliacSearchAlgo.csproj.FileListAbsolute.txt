@@ -1,0 +1,9 @@
+C:\Users\Russell Palma\Downloads\PARA_IS\SearchAlgorithm\AliacSearchAlgo\bin\Debug\AliacSearchAlgo.exe
+C:\Users\Russell Palma\Downloads\PARA_IS\SearchAlgorithm\AliacSearchAlgo\bin\Debug\AliacSearchAlgo.pdb
+C:\Users\Russell Palma\Downloads\PARA_IS\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.AssemblyReference.cache
+C:\Users\Russell Palma\Downloads\PARA_IS\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.Form1.resources
+C:\Users\Russell Palma\Downloads\PARA_IS\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.Properties.Resources.resources
+C:\Users\Russell Palma\Downloads\PARA_IS\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.GenerateResource.cache
+C:\Users\Russell Palma\Downloads\PARA_IS\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.CoreCompileInputs.cache
+C:\Users\Russell Palma\Downloads\PARA_IS\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.exe
+C:\Users\Russell Palma\Downloads\PARA_IS\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.pdb
